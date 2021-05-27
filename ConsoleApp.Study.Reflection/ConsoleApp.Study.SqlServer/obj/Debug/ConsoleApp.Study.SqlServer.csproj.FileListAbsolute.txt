@@ -6,3 +6,13 @@ D:\C#\写着玩\ConsoleApp.Study.Reflection\ConsoleApp.Study.SqlServer\obj\Debug
 D:\C#\写着玩\ConsoleApp.Study.Reflection\ConsoleApp.Study.SqlServer\obj\Debug\ConsoleApp.Study.SqlServer.csproj.CopyComplete
 D:\C#\写着玩\ConsoleApp.Study.Reflection\ConsoleApp.Study.SqlServer\obj\Debug\ConsoleApp.Study.SqlServer.dll
 D:\C#\写着玩\ConsoleApp.Study.Reflection\ConsoleApp.Study.SqlServer\obj\Debug\ConsoleApp.Study.SqlServer.pdb
+D:\C#\写着玩\study\ConsoleApp.Study.Reflection\ConsoleApp.Study.SqlServer\bin\Debug\ConsoleApp.Study.SqlServer.dll
+D:\C#\写着玩\study\ConsoleApp.Study.Reflection\ConsoleApp.Study.SqlServer\bin\Debug\ConsoleApp.Study.SqlServer.pdb
+D:\C#\写着玩\study\ConsoleApp.Study.Reflection\ConsoleApp.Study.SqlServer\bin\Debug\ConsoleApp.Study.Interface.dll
+D:\C#\写着玩\study\ConsoleApp.Study.Reflection\ConsoleApp.Study.SqlServer\bin\Debug\ConsoleApp.Study.Model.dll
+D:\C#\写着玩\study\ConsoleApp.Study.Reflection\ConsoleApp.Study.SqlServer\bin\Debug\ConsoleApp.Study.Interface.pdb
+D:\C#\写着玩\study\ConsoleApp.Study.Reflection\ConsoleApp.Study.SqlServer\bin\Debug\ConsoleApp.Study.Model.pdb
+D:\C#\写着玩\study\ConsoleApp.Study.Reflection\ConsoleApp.Study.SqlServer\obj\Debug\ConsoleApp.Study.SqlServer.csprojAssemblyReference.cache
+D:\C#\写着玩\study\ConsoleApp.Study.Reflection\ConsoleApp.Study.SqlServer\obj\Debug\ConsoleApp.Study.SqlServer.csproj.CopyComplete
+D:\C#\写着玩\study\ConsoleApp.Study.Reflection\ConsoleApp.Study.SqlServer\obj\Debug\ConsoleApp.Study.SqlServer.dll
+D:\C#\写着玩\study\ConsoleApp.Study.Reflection\ConsoleApp.Study.SqlServer\obj\Debug\ConsoleApp.Study.SqlServer.pdb

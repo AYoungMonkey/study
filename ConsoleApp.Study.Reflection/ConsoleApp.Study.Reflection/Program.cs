@@ -144,7 +144,7 @@ namespace ConsoleApp.Study.Reflection
 
                 //object oGenericTest = Activator.CreateInstance(type1);
                 //MethodInfo genericMethod = type1.GetMethod("show");
-                //genericMethod.Invoke(oGenericTest, new object[] { 18 , "刘亚栋", DateTime.Now });
+                //genericMethod.Invoke(oGenericTest, new object[] { 18, "刘亚栋", DateTime.Now });
 
                 //Assembly assembly = Assembly.Load("ConsoleApp.Study.SqlServer");
                 //Type type = assembly.GetType("ConsoleApp.Study.SqlServer.GenericDouble`1"); // 获取一个泛型类型
@@ -164,7 +164,7 @@ namespace ConsoleApp.Study.Reflection
                 // 缺点
                 // 3.编写比较困难, 代码量大, 易出错
                 // 4.性能问题, 性能损耗大
-                Monitor.show();
+                //Monitor.show();
                 // 经过调试, 性能损耗确实大, 该机调试下普通方式 11ms , 反射方式 70ms
 
                 // 反射的应用
@@ -182,21 +182,40 @@ namespace ConsoleApp.Study.Reflection
                     Console.WriteLine($"people.Id = {people.Id}");
                     Console.WriteLine($"people.Name = {people.Name}");
                     Console.WriteLine($"people.Description = {people.Description}");
-                    
+
                     Type type = typeof(People);
                     object opeople = Activator.CreateInstance(type);
 
+                    // 设置字段
                     foreach (PropertyInfo prop in type.GetProperties())
                     {
-                        if (prop.Name.Equals("id"))
+                        if (prop.Name.Equals("Id"))
                         {
                             prop.SetValue(opeople, 123, null);
+                        }
+                        else if (prop.Name.Equals("Name"))
+                        {
+                            prop.SetValue(opeople, "啦啦啦", null);
                         }
 
 
                         Console.WriteLine($"opeople.{prop.Name}={prop.GetValue(opeople, null)}");
                     }
 
+                    foreach (FieldInfo field in type.GetFields())
+                    {
+                        if (field.Name.Equals("Description"))
+                        {
+                            field.SetValue(opeople, "AAAAAAA");
+                        }
+                        Console.WriteLine($"opeople.{field.Name}={field.GetValue(opeople)}");
+                    }
+                }
+
+                {
+                    Company company = SqlServerHelper.Find(1);
+                    Company company1 = SqlServerHelper.Find<Company>(1);
+                    User user = SqlServerHelper.Find<User>(1);
                 }
             }
 

@@ -3,3 +3,8 @@ D:\C#\写着玩\ConsoleApp.Study.Reflection\ConsoleApp.Study.Model\bin\Debug\Con
 D:\C#\写着玩\ConsoleApp.Study.Reflection\ConsoleApp.Study.Model\obj\Debug\ConsoleApp.Study.Model.csprojAssemblyReference.cache
 D:\C#\写着玩\ConsoleApp.Study.Reflection\ConsoleApp.Study.Model\obj\Debug\ConsoleApp.Study.Model.dll
 D:\C#\写着玩\ConsoleApp.Study.Reflection\ConsoleApp.Study.Model\obj\Debug\ConsoleApp.Study.Model.pdb
+D:\C#\写着玩\study\ConsoleApp.Study.Reflection\ConsoleApp.Study.Model\bin\Debug\ConsoleApp.Study.Model.dll
+D:\C#\写着玩\study\ConsoleApp.Study.Reflection\ConsoleApp.Study.Model\bin\Debug\ConsoleApp.Study.Model.pdb
+D:\C#\写着玩\study\ConsoleApp.Study.Reflection\ConsoleApp.Study.Model\obj\Debug\ConsoleApp.Study.Model.csprojAssemblyReference.cache
+D:\C#\写着玩\study\ConsoleApp.Study.Reflection\ConsoleApp.Study.Model\obj\Debug\ConsoleApp.Study.Model.dll
+D:\C#\写着玩\study\ConsoleApp.Study.Reflection\ConsoleApp.Study.Model\obj\Debug\ConsoleApp.Study.Model.pdb

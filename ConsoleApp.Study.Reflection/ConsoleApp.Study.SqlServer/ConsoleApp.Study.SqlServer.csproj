@@ -32,6 +32,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -50,6 +51,10 @@
     <ProjectReference Include="..\ConsoleApp.Study.Interface\ConsoleApp.Study.Interface.csproj">
       <Project>{6d0b9aff-2773-45e8-b79c-83a1968ed100}</Project>
       <Name>ConsoleApp.Study.Interface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ConsoleApp.Study.Model\ConsoleApp.Study.Model.csproj">
+      <Project>{634A98E9-808C-4252-AE9B-2B347DDA167D}</Project>
+      <Name>ConsoleApp.Study.Model</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
