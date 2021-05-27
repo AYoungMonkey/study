@@ -1,0 +1,9 @@
+C:\Users\L\source\repos\ConsoleApp.Study.Attribute\ConsoleApp.Study.Attribute\bin\Debug\ConsoleApp.Study.Attribute.exe
+C:\Users\L\source\repos\ConsoleApp.Study.Attribute\ConsoleApp.Study.Attribute\bin\Debug\ConsoleApp.Study.Attribute.pdb
+C:\Users\L\source\repos\ConsoleApp.Study.Attribute\ConsoleApp.Study.Attribute\obj\Debug\ConsoleApp.Study.Attribute.exe
+C:\Users\L\source\repos\ConsoleApp.Study.Attribute\ConsoleApp.Study.Attribute\obj\Debug\ConsoleApp.Study.Attribute.pdb
+C:\Users\L\source\repos\ConsoleApp.Study.Attribute\ConsoleApp.Study.Attribute\obj\Debug\ConsoleApp.Study.Attribute.csprojAssemblyReference.cache
+C:\Users\L\source\repos\ConsoleApp.Study.Attribute\ConsoleApp.Study.Attribute\bin\Debug\ConsoleApp.Study.Attribute.exe.config
+D:\C#\写着玩\study\ConsoleApp.Study.Attribute\ConsoleApp.Study.Attribute\bin\Debug\ConsoleApp.Study.Attribute.exe.config
+D:\C#\写着玩\study\ConsoleApp.Study.Attribute\ConsoleApp.Study.Attribute\obj\Debug\ConsoleApp.Study.Attribute.exe
+D:\C#\写着玩\study\ConsoleApp.Study.Attribute\ConsoleApp.Study.Attribute\obj\Debug\ConsoleApp.Study.Attribute.pdb
