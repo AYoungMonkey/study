@@ -1,0 +1,4 @@
+D:\C#\写着玩\ConsoleApp.Study.Reflection\ConsoleApp.Study.Interface\bin\Debug\ConsoleApp.Study.Interface.dll
+D:\C#\写着玩\ConsoleApp.Study.Reflection\ConsoleApp.Study.Interface\bin\Debug\ConsoleApp.Study.Interface.pdb
+D:\C#\写着玩\ConsoleApp.Study.Reflection\ConsoleApp.Study.Interface\obj\Debug\ConsoleApp.Study.Interface.dll
+D:\C#\写着玩\ConsoleApp.Study.Reflection\ConsoleApp.Study.Interface\obj\Debug\ConsoleApp.Study.Interface.pdb

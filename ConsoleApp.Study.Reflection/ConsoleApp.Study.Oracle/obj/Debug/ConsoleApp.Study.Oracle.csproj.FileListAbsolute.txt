@@ -1,0 +1,8 @@
+D:\C#\写着玩\ConsoleApp.Study.Reflection\ConsoleApp.Study.Oracle\bin\Debug\ConsoleApp.Study.Oracle.dll
+D:\C#\写着玩\ConsoleApp.Study.Reflection\ConsoleApp.Study.Oracle\bin\Debug\ConsoleApp.Study.Oracle.pdb
+D:\C#\写着玩\ConsoleApp.Study.Reflection\ConsoleApp.Study.Oracle\bin\Debug\ConsoleApp.Study.Interface.dll
+D:\C#\写着玩\ConsoleApp.Study.Reflection\ConsoleApp.Study.Oracle\bin\Debug\ConsoleApp.Study.Interface.pdb
+D:\C#\写着玩\ConsoleApp.Study.Reflection\ConsoleApp.Study.Oracle\obj\Debug\ConsoleApp.Study.Oracle.csprojAssemblyReference.cache
+D:\C#\写着玩\ConsoleApp.Study.Reflection\ConsoleApp.Study.Oracle\obj\Debug\ConsoleApp.Study.Oracle.csproj.CopyComplete
+D:\C#\写着玩\ConsoleApp.Study.Reflection\ConsoleApp.Study.Oracle\obj\Debug\ConsoleApp.Study.Oracle.dll
+D:\C#\写着玩\ConsoleApp.Study.Reflection\ConsoleApp.Study.Oracle\obj\Debug\ConsoleApp.Study.Oracle.pdb

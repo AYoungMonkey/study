@@ -1,0 +1,5 @@
+D:\C#\写着玩\ConsoleApp.Study.Generic\ConsoleApp.Study.Generic\bin\Debug\ConsoleApp.Study.Generic.exe
+D:\C#\写着玩\ConsoleApp.Study.Generic\ConsoleApp.Study.Generic\bin\Debug\ConsoleApp.Study.Generic.pdb
+D:\C#\写着玩\ConsoleApp.Study.Generic\ConsoleApp.Study.Generic\obj\Debug\ConsoleApp.Study.Generic.csprojAssemblyReference.cache
+D:\C#\写着玩\ConsoleApp.Study.Generic\ConsoleApp.Study.Generic\obj\Debug\ConsoleApp.Study.Generic.exe
+D:\C#\写着玩\ConsoleApp.Study.Generic\ConsoleApp.Study.Generic\obj\Debug\ConsoleApp.Study.Generic.pdb
