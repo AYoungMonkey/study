@@ -74,14 +74,23 @@ namespace ConsoleApp.Study.Attribute
             {
                 Id = 2,
                 Name = "BBB",
-                Salary = 1000
+                Salary = 1000,
+                QQ = 893121592
             };
 
-            VaildateExtend.AttributeExtend.validate(student2);
-            VaildateExtend.AttributeExtend.validate<StudentTwo>(student2);
+            //VaildateExtend.AttributeExtend.validate(student2);
+            //VaildateExtend.AttributeExtend.validate<StudentTwo>(student2);
 
-            student2.validate();
-            student2.validate<StudentTwo>();
+            //student2.validate();
+            //student2.validate<StudentTwo>();
+
+            bool b1 = student2.validate<StudentTwo>();
+            // 实体验证 ： 建义使用属性或者都使用字段
+            // 1.可以验证每一个属性和字段的值(通过特性增加了额外的验证功能)
+            // 2.可以支持多重验证
+            // 3.可以支持任意扩展
+
+
         }
     }
 }

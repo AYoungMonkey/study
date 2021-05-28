@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ConsoleApp.Study.Attribute.VaildateExtend
 {
     [AttributeUsage(AttributeTargets.Property)]
-    public class SalaryAttribute : System.Attribute
+    public class SalaryAttribute : AbstratValidateAttribute
     {
         public SalaryAttribute(long Salary)
         {
@@ -15,9 +15,9 @@ namespace ConsoleApp.Study.Attribute.VaildateExtend
         }
         public long _Salary { get; set; }
 
-        public bool Validate(object oValue)
+        public override bool Validate(object oValue)
         {
-            if (oValue != null && long.TryParse(oValue.ToString(), out long lValue) && lValue > _Salary)
+            if (oValue != null && long.TryParse(oValue.ToString(), out long lValue) && lValue < _Salary)
             {
                 return true;
             }

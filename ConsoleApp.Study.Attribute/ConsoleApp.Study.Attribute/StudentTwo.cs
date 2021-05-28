@@ -19,5 +19,8 @@ namespace ConsoleApp.Study.Attribute
         }
         [SalaryAttribute(800)]
         public int Salary { get; set; }
+
+        [LongAttribute(_Max = 11, _Min = 5)]
+        public long QQ;
     }
 }
